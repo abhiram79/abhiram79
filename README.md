@@ -5,7 +5,7 @@
 
 <!-- https://shields.io/ -->
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)](https://t.me/abhiram79)
-[![XDA Developers](https://img.shields.io/badge/XDA_Developers-black?style=flat&logo=xdadevelopers)](https://xdaforums.com/m/abhiram79)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)]()
+[![XDA Developers](https://img.shields.io/badge/XDA_Developers-black?style=flat&logo=xdadevelopers)]()
 
 </div>
