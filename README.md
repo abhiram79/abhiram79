@@ -1,8 +1,11 @@
-<h1 align="center">Hi, I am abhiram79</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram79&show_icons=true&locale=en&layout=compact" alt="abhiram79" style="width: 100%;" /></p>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![GitHub stats](https://vercel-github-readme-stats-xi.vercel.app/api?username=abhiram79&show_icons=true&disable_animations=true&hide_title=true&border_radius=20&border_color=0d1117&bg_color=151b23&hide=contribs&text_color=e4e4e4&icon_color=ffffff&ring_color=ffffff&include_all_commits=true)](https://github.com/chickendrop89?tab=repositories)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram79&" alt="abhiram79" style="width: 100%;" /></p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- https://shields.io/ -->
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)](https://t.me/abhiram79)
+[![XDA Developers](https://img.shields.io/badge/XDA_Developers-black?style=flat&logo=xdadevelopers)](https://xdaforums.com/m/abhiram79)
+
+</div>
